@@ -1,13 +1,5 @@
 /*!
- * Project_Name: Themezy Band Template
- * Author: Themezy
- * Email: info@themezy.com
- * URL: http://themezy.com
- */
-/*=========================================== 
- * Importing CSS Libraries
- *===========================================*/
-/* line 45, sass/libs/_normalize.scss */
+ 
 article,
 aside,
 details,
@@ -260,7 +252,7 @@ table {
 
 /* line 1, sass/libs/_global.scss */
 body {
-  background-color: #141414;
+  background-color: #000000;
   color: #848484;
   font-family: "Source Sans Pro", "Open Sans", sans-serif;
   font-size: 16px;
